@@ -1,0 +1,27 @@
+<style>
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic);
+
+div.output_text{
+        max-height:400px;
+        overflow:scroll;
+}
+
+div#notebook, div.output_text, div.rendered_html {
+  /* font-family: 'PT Serif' !important; */
+  font-family: 'Volkorn'; 
+
+} 
+
+div.CodeMirror, div.output_area pre, div.output_wrapper, div.prompt {
+  font-family: 'Source Code Pro', monospace !important;
+}
+
+.output_text {
+  background-color: #f0f0f0;
+}
+
+
+.prompt { display: none; }
+div.output_subarea { max-width: calc(100%); }
+</style>
+
