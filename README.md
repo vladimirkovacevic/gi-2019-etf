@@ -2,7 +2,7 @@
 Materials for course Genome Informatics 2019 - School of Electrical Engineering University of Belgrade
 
 ## Obaveštenja o kursu
-19. Feb. 2019: Termin predavanja je četvrtak, 18h, učionica 314.
+**19. Feb. 2019:** Termin predavanja je četvrtak, 18h, učionica 314.
 
 ## Getting Started
 
