@@ -16,3 +16,5 @@ Materijali za kurs Genomske informatike 2019 - Elektrotehnički fakultet, Univer
 Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridges/events/259527619/) u petak, 22. marta 2019 od 18h. 
 
 **29. Mar. 2019:** U četvrtak, 4. aprila, po želji studenata, Dan studenata ćemo proslaviti radno, redovnim predavanjem od 18 časova. 
+
+**27. Apr. 2019:** U četvrtak, 2. maja neće biti predavanja iz genomske informatike. Želimo vam srećne Uskršnje i Prvomajske praznike.
