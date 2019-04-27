@@ -17,4 +17,4 @@ Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridge
 
 **29. Mar. 2019:** U četvrtak, 4. aprila, po želji studenata, Dan studenata ćemo proslaviti radno, redovnim predavanjem od 18 časova. 
 
-**27. Apr. 2019:** U četvrtak, 2. maja neće biti predavanja iz genomske informatike. Želimo vam srećne Uskršnje i Prvomajske praznike.
+**27. Apr. 2019:** U četvrtak, 2. maja neće biti predavanja iz genomske informatike. Naredni termin predavanja je četvrtak, 9. maj. Želimo vam srećne Uskršnje i Prvomajske praznike.
