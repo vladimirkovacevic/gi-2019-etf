@@ -1,0 +1,45 @@
+INTRODUCTION
+
+1. (title slide)
+
+Dezoksiribonukleinska kiselina (DNA) se nalazi u unutrašnjosti ćelija, organizovana u obliku hromozoma - dugačkih vlaknastih struktura. Kod čoveka je hromozom dvostruki, spiralno uvijeni lanac od 50 do 250 miliona nukleotida. Segment tog niza koji kodira RNA (ribonukleinska kiselina) molekul naziva se gen, a ceo skup genetskih instrukcija koje nosi neki organizam - genom. Humani genom sadrži nešto više od 20,000 gena.
+
+Poznato nam je da u svakoj ćeliji našeg organizma imamo praktično isti DNA (osim u haploidnim polnim ćelijama), ali isto tako znamo i da neke od tih ćelije vrše potpuno različite funkcije. Metabolizam ćelije kože i ćelije nervnog sistema se razlikuje, ali zašto kada je osnovni genetski kod isti?
+
+2. (centralna dogma)
+
+2/1
+
+Centralna dogma molekularne biologije definise smer protoka biološke informacije: DNA kodira RNA, a RNA kodira protein (naravno, da bi regulacija bila moguća postoje i efekti suprotnog smera).
+
+I RNA i DNA molekuli su nizovi nukleotida. Nukleotidi koji čine DNA su adenin (A), guanin (G), citozin (C) i timin (T), dok se kod RNA timin zamenjuje uracilom (U).
+
+Informacija sadržana u segmentu DNA niza se može kopirati u RNA (kroz proces koji nazivamo 'transkripcija' uz posredstvo enzima RNA-polimeraze), informacijska RNA (mRNA) nastaje od pre-mRNA (procesom 'splajsovanja', u kojem se uklanjaju tzv. intronske regije/introni) i proteini se sintetišu nizanjem amino kiselina po mRNA šablonu ('translacija'). Translacija se obavlja unutar ribozoma, organele sačinjene od ribozomalne RNA (rRNA) i proteina.
+
+2/3
+
+Tipovi RNA: informacijska ili messenger RNA (mRNA) zastupljena je sa oko ~5% u ćelijama sisara, ribozomalna RNA (rRNA) ~80%, transportna RNA koja takođe učestvuje u procesu translacije (tRNA) ~15% ... 
+
+2/4
+
+Na enhancere se vezuju transcription faktori koji interaguju sa RNA-polimerazom (koja se vezuje na promoterski region gena) i povećavaju šansu da dođe to transkripcije. Postoje i regije koje imaju suprotnu regulatornu ulogu: silenceri.
+
+UTR = untranslated region, ne kodira protein
+
+2/5
+
+Alternativno splajsovanje je proces kojim od pre-mRNA koji je doslovno prepisan DNA kod nastaje mRNA koji će kodirati protein. Splajsovanjem dolazi do odstranjivanja intronskih regija (introna), ali se isto može desiti i pojedinim eksonima. Rezultujući različiti mRNA molekuli mogu biti translirani u različite proteine, odnosno - jedan gen može da kodira više proteina.
+
+Alternativno splajsovanje se javlja kao normalna pojava kod eukariota, gde znatno povećava raznovrsnost proteina. Kod ljudi preko 80% gena su alternativno splajsovani. Brojni modovi alternativnog splajsovanja su uočeni, od kojih najčešći jeste preskakanje eksona. U tom modu, pojedini ekson može biti uključen u mRNA pod nekim uslovima ili u pojedinim tkivima, i izostavljen iz mRNA u drugim.
+
+Ovo je nešto što će otežati problem alignmenta (poravnanja) na referentni genom. Aligner mora biti 'splice aware'!
+
+Rezultat splajsinga nazivamo 'transkript' (ili 'izoforma'). To je jedna od varijanti mRNA molekula koja može nastati od nekog gena. Ekvivalentno relaciji gen-genom, 'katalog' svih mogućih transkripata nazivamo 'transkritom'.
+
+3. (motivacija i tehnologije)
+
+3/1
+
+Proteini (belančevine) predstavljaju za žive sisteme najznačajnije organske molekule. Osim što izgrađuju ćeliju i njene delove, proteini obavljaju i sve osnovne funkcije u organizmu. 
+
+Izuzetno je komplikovano direktno izmeriti relativnu zastupljenost određenog proteina u uzorku. Zato merimo relativnu zastupljenost mRNA molekula koji kodira taj protein!

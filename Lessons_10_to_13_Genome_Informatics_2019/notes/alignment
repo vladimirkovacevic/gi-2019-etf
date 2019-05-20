@@ -1,0 +1,16 @@
+ALIGNMENT
+
+1. (title slide)
+
+Prezentacija je adaptirana iz rada koji opisuje TopHat2 aligner odakle potiče većina teksta i slika.
+
+2. (izazovi)
+
+2/1
+
+Pseudogeni su nefunkcionalni srodnici gena koji su izgubili sposobnost kodiranja proteina ili više ne bivaju izraženi u ćeliji. Mada neki od njih nemaju introne ili promotere (to su najčešće pseudogeni koji su kopirani sa mRNA i inkorporirani nazad u hromozome, poznati kao obrađeni/processed pseudogeni). Oni se smatraju nefunkcionalnim zbog njihovog nedostatka sposobnosti da kodiraju proteine, što je posledica raznih genetičkih oštećenja (prerani stop kodoni, pomeranja okvira čitanja, ili odsustva transkripcije), ili zbog njihove nesposobnosti da kodiraju RNA (kao kod rRNA pseudogena). 
+Pseudogeni se generalno smatraju zadnjom stanicom genomskog materijala koja može biti uklonjena iz genoma, te se često obeležavaju kao DNK smeće.
+
+3. (algoritam)
+
+Tophat interno koristi Bowtie aligner (od istih autora) za klasičan alignment.
