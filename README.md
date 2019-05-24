@@ -24,3 +24,5 @@ Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridge
 **7. maj. 2019:** Dodato je još 5 novih [projektnih zadataka](https://docs.google.com/document/d/10Rba5Pn4Q8wO5ENXaaV9F0XY9BQQPoz6jz3HqrnFJI4), dva sa seed & extend alajmentom i tri iz RNA dela. 
 
 **24. maj. 2019:** Termin ispita iz Genomske informatike u junskom roku je 13. jun, 18:30, a u julskom roku 4. jul, 18:30.
+
+**24. maj. 2019:** Video predavanja kursa Genomske informatike 2019 su od danas javno [dostupna](https://www.youtube.com/playlist?list=PLGJwCUeHsVMdDT2KKXk710FW0JKaUM8cO).
