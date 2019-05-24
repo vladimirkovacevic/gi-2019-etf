@@ -22,3 +22,5 @@ Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridge
 **5. maj. 2019:** U četvrtak 23. maja u 18h biće održano poslednje predavanje iz predmeta Genomska informatika. Na njemu će studenti održati kratke prezentacije najuspešnijih projektnih zadataka. Predavanje će biti održano u prostorijama kompanije [Seven Bridges, Omladinskih brigada 90g (Airport city)](https://www.google.com/maps/place/Seven+Bridges+Genomics+Inc/@44.812738,20.395729,15z/data=!4m2!3m1!1s0x0:0x635d6a005857c271?sa=X&ved=2ahUKEwjPkLSHnoPiAhXIwosKHRSOCZQQ_BIwCnoECA4QCA). Dobrodošli!
 
 **7. maj. 2019:** Dodato je još 5 novih [projektnih zadataka](https://docs.google.com/document/d/10Rba5Pn4Q8wO5ENXaaV9F0XY9BQQPoz6jz3HqrnFJI4), dva sa seed & extend alajmentom i tri iz RNA dela. 
+
+**24. maj. 2019:** Termin ispita iz Genomske informatike u junskom roku je 13. jun, 18:30, a u julskom roku 4. jul, 18:30.
