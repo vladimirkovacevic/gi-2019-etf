@@ -28,3 +28,5 @@ Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridge
 **24. maj. 2019:** Video predavanja kursa Genomske informatike 2019 su od danas javno [dostupna](https://www.youtube.com/playlist?list=PLGJwCUeHsVMdDT2KKXk710FW0JKaUM8cO).
 
 **10. jun. 2019:** Ispit iz Genomske informatike će biti održan u sali 59, u četvrtak, 13. juna, 18:30. Ponesite vežbanke.
+
+**17. jun. 2019:** Rezultati [junskog ispitnog roka](https://docs.google.com/spreadsheets/d/1NO_OSAsK3NE_Boy12EsSfAo1RjUAiza0GQZHes0JZ8w/edit?usp=sharing) iz Genomske informatike. Primedbe i sugestije možete uputiti na vladimir.kovacevic@sbgenomics.com.
