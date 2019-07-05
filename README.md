@@ -30,3 +30,5 @@ Dobrodošli na [SBG Meetup - Bioinformatics](https://www.meetup.com/seven-bridge
 **10. jun. 2019:** Ispit iz Genomske informatike će biti održan u sali 59, u četvrtak, 13. juna, 18:30. Ponesite vežbanke.
 
 **17. jun. 2019:** Rezultati [junskog ispitnog roka](https://docs.google.com/spreadsheets/d/1NO_OSAsK3NE_Boy12EsSfAo1RjUAiza0GQZHes0JZ8w/edit?usp=sharing) iz Genomske informatike. Primedbe i sugestije možete uputiti na vladimir.kovacevic@sbgenomics.com. Takođe studenti koji ne žele da im ocena bude upisana u junskom roku neka to jave na navedenu adresu.
+
+**05. jul. 2019:** Rezultati [julskog ispitnog roka](https://docs.google.com/spreadsheets/d/1NO_OSAsK3NE_Boy12EsSfAo1RjUAiza0GQZHes0JZ8w/edit#gid=1284784924) iz Genomske informatike. Primedbe i sugestije možete uputiti na vladimir.kovacevic@sbgenomics.com. Takođe studenti koji ne žele da im ocena bude upisana u julskom roku neka to jave na navedenu adresu do 9. jula.
